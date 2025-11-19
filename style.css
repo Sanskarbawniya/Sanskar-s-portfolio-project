@@ -324,6 +324,7 @@ section .title::after {
     padding: 50px 25px;
     cursor: pointer;
     transition: all 0.3s ease;
+    display: inline-block;
 }
 
 .services .serv-content .card:hover {
@@ -1030,4 +1031,5 @@ html,body{
     color: crimson;
     border-color: crimson;
     background: linear-gradient(375deg, transparent, transparent);
+
 }
