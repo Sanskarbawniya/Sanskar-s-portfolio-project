@@ -359,6 +359,7 @@ section .title::after {
 
 .skills .title::after {
     content: "what i know";
+    background: #111;
 }
 
 .skills .skills-content .column {
